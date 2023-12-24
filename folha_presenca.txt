@@ -1,0 +1,10 @@
+Aluno: Marco, ID: 22 terminei a prova em 19000ms
+Aluno: Denis, ID: 26 terminei a prova em 27000ms
+Aluno: Pericles, ID: 21 terminei a prova em 41000ms
+Aluno: Amadeu, ID: 29 terminei a prova em 44000ms
+Aluno: Edmilson, ID: 28 terminei a prova em 44000ms
+Aluno: Cesar, ID: 30 terminei a prova em 52000ms
+Aluno: Rafael, ID: 27 terminei a prova em 95000ms
+Aluno: Naomy, ID: 23 terminei a prova em 96000ms
+Aluno: Fabricia, ID: 24 terminei a prova em 103000ms
+Aluno: Silvano, ID: 25 terminei a prova em 127000ms
